@@ -30,7 +30,7 @@ This project is an eCommerce application that allows users to view a list of pro
 
 2. Navigate to the project directory:
     ```sh
-    cd ecommerce
+    cd Shopping cart
     ```
 
 3. Install the dependencies:
@@ -40,10 +40,10 @@ This project is an eCommerce application that allows users to view a list of pro
 
 4. Start the application:
     ```sh
-    npm start
+    npm run dev
     ```
 
-The app will be available at `http://localhost:3000`.
+The app will be available at `http://localhost:5174`.
 
 ## Usage
 
@@ -62,12 +62,8 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
 ## Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle) - youremail@example.com
-
-Project Link: [https://github.com/yourusername/ecommerce](https://github.com/yourusername/ecommerce)
+Brayan Gutierrez - [BrayanGuti](https://www.linkedin.com/in/brayan-gutierrez-b16048260/) - brag.866@gmail.com
+1
+Project Link: [https://github.com/BrayanGuti/Shopping-Cart](https://github.com/BrayanGuti/Shopping-Cart)
