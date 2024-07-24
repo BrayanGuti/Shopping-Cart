@@ -1,0 +1,53 @@
+section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.price-filter{
+    display: flex;
+    flex-direction: column;
+}
+
+.price-filter label{
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.price-filter div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-filter span{
+    font-size: 1.2em;
+    font-weight: 400;
+}   
+
+.price-filter input{
+    margin: 5px;
+    width: 100%;
+}
+
+.category-filter{
+    display: flex;
+    flex-direction: column;
+}
+
+.category-filter label{
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.category-filter select{
+    margin: 10px;
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 1em;
+    
+}
+
+.category-filter option{
+    font-size: 1.2em;
+    font-weight: 400;
+}
